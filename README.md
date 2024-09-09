@@ -8,10 +8,10 @@
 
 
 ## Team Members
-| Image | Name | Email |
-|-------|------|-------|
-| <img src="Resources/anson.png" alt="Cat" height="64" width="64"> | Anson He | ansonhe1997@gmail.com |
-| <img src="Resources/dog.png" alt="Dog" height="64" width="64"> | Dog | dog@example.com |
+| Image                                                              | Name | Email |
+|--------------------------------------------------------------------|------|-------|
+| <img src="Resources/anson.png" alt="Cat" height="64" width="64">   | Anson He | ansonhe1997@gmail.com |
+| <img src="Resources/steven.png" alt="Steven" width="64">           | Steven | hu.ste@northeastern.edu |
 | <img src="Resources/hippo.png" alt="Hippo" height="64" width="64"> | Hippo | hippo@example.com |
 | <img src="Resources/shark.png" alt="Shark" height="64" width="64"> | Shark | shark@example.com |
 
