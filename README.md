@@ -14,6 +14,7 @@
 | <img src="Resources/steven.png" alt="Steven" width="64">           | Steven | hu.ste@northeastern.edu |
 | <img src="Resources/hippo.png" alt="Hippo" height="64" width="64"> | Hippo | hippo@example.com |
 | <img src="Resources/shark.png" alt="Shark" height="64" width="64"> | Shark | shark@example.com |
+| <img src="Resources/yuning.png"> alt="Yuning" height="64" width="64"> | Yuning Mu | mu.yun@northeastern.edu |
 
 
 
