@@ -1,11 +1,11 @@
 # CS 5500 Fall 2024 Template Repository 
 
-<img src="Resources/teamlogo.png" alt="Team Logo" height="128" width="128" align="right">
+<img src="Resources/team.png" alt="Team Logo" height="128" width="128" align="right">
 
 - This is the landing page of your team.
 - **Team Name:** Group5
 - **Team Logo:** N/A
-- **Team Description:** NA
+- **Team Description:** N/A
 
 
 ## Team Members
