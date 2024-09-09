@@ -102,19 +102,31 @@ Conflicts will be addressed promptly using the following mechanisms:
 3. **Escalation:** For conflicts that remain unresolved after mediation, the issue will be escalated to the scrum master for final resolution.
 
 ## Performance Expectations
+
 We have set the following performance expectations to maintain high standards:
-1. **Metrics:** [List performance metrics]
-2. **Goals:** [Set specific performance goals]
-3. **Feedback:** [Describe how feedback will be provided and used]
+
+1. **Metrics:**
+
+   - Task completion according to the project timeline.
+   - Use of modern frameworks and best practices to ensure high performance.
+
+2. **Goals:**
+
+   - Implement a robust, high-performing solution using modern frameworks.
+   - Ensure seamless interactions across all components to deliver a smooth user experience.
+
+3. **Feedback:**
+   - Feedback will be provided regularly by the Scrum Master(TA), with additional input from PM Anson He.
+   - Improvements based on feedback will be implemented promptly, followed by reevaluation to ensure continuous progress.
 
 ## Meeting Schedules and Agendas
 
 Regular meetings will be scheduled as follows:
 
-1. **Frequency:** [e.g., Weekly, bi-weekly]
+1. **Frequency:**
 
-   - WeChat: Used daily for quick discussions and updates.
-   - Teams Meetings: Held weekly to align the team and review progress.
+   - WeChat: Used **daily** for quick discussions and updates.
+   - Teams Meetings: Held **weekly** to align the team and review progress.
    - Email: Used for milestone updates and formal communications.
 
 2. **Agenda:**
