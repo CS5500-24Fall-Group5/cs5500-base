@@ -18,7 +18,7 @@ This Team Charter outlines the purpose, objectives, roles, responsibilities, and
 
 Our team is dedicated to achieving the following purpose and objectives:
 
-1. **Purpose:** Our team is focused on delivering a full-stack solution and ensuring its successful implementation based on the requirements of the BC Cancer project. We are committed to meeting the project's specific needs while maintaining high standards of quality and functionality, utilizing industry-standard practices, tools, and frameworks.
+1. **Purpose:** Our team focuses on delivering a full-stack solution and ensuring its successful implementation based on the requirements of the BC Cancer project. We are committed to meeting the project's specific needs while maintaining high standards of quality and functionality, utilizing industry-standard practices, tools, and frameworks.
   
 2. **Objectives:**
 
