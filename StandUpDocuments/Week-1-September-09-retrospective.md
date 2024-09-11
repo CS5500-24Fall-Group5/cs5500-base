@@ -73,9 +73,9 @@ Identify actionable steps that can be taken to improve future projects.
 - **Achievements and Contributions:**
   - Assisted in the drafting of the team charter.
 - **Challenges Faced:**
-  -
+  - N/A
 - **Areas for Improvement:**
-  -
+  - N/A
 - **Feedback and Suggestions:**
   - Ensure active participation in all meetings and stay aligned with the team’s progress.
 
