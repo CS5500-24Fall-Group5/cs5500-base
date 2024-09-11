@@ -18,7 +18,7 @@ Week 1 September 09
 
 ## Overview
 
-Briefly describe the purpose of this retrospective and what you aim to achieve.
+The purpose of this retrospective is to reflect on the team’s performance during the first week of the project. We aim to identify our successes, any challenges we faced, and areas for future improvement. This reflection will guide us in ensuring the team stays aligned and continually improves as the project progresses.
 
 ---
 
@@ -35,7 +35,7 @@ List the things that went well during the project.
 
 List the areas where there is room for improvement.
 
-- N/A
+- At this stage, there are no significant challenges or areas for improvement to report. However, as the project progresses, this section will be revisited for future retrospectives.
 
 ---
 
@@ -43,7 +43,8 @@ List the areas where there is room for improvement.
 
 Identify actionable steps that can be taken to improve future projects.
 
-1. N/A
+1. Continue to maintain open communication and collaboration through the agreed-upon channels.
+2. Ensure all team members adhere to their roles and responsibilities as outlined in the charter.
 
 ---
 
@@ -68,15 +69,15 @@ Identify actionable steps that can be taken to improve future projects.
 
   - N/A
 
-### [Team Member 2]
+### `Norman Yuan`
 - **Achievements and Contributions:**
-  -
+  - Assisted in the drafting of the team charter.
 - **Challenges Faced:**
   -
 - **Areas for Improvement:**
   -
 - **Feedback and Suggestions:**
-  -
+  - Ensure active participation in all meetings and stay aligned with the team’s progress.
 
 ### [Team Member 3]
 - **Achievements and Contributions:**
@@ -103,11 +104,11 @@ Reflect on the team’s performance as a whole.
 
 - **Areas for Improvement:**
 
-  - N/A
+  - None identified at this stage, but continued self-assessment will help track ongoing performance.
 
 - **Suggestions for Future Projects:**
 
-  - N/A
+  - Maintain flexibility in roles if the project requirements shift or if a team member encounters challenges in their area.
 
 ---
 
@@ -115,4 +116,4 @@ Reflect on the team’s performance as a whole.
 
 Add any additional comments or notes that may be relevant.
 
-- N/A
+- We are looking forward to the upcoming project milestones and will continue to ensure high standards of collaboration and quality.
