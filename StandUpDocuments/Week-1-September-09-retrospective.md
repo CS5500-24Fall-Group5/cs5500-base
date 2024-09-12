@@ -1,4 +1,4 @@
-# Retrospective Document Template
+# Retrospective Document
 
 ## Team Name
 
@@ -56,20 +56,18 @@ Identify actionable steps that can be taken to improve future projects.
 
   - Contributed to the team charter
   - Took on the role of PM + Frontend work
-
 - **Challenges Faced:**
 
   - N/A
-
 - **Areas for Improvement:**
 
   - N/A
-
 - **Feedback and Suggestions:**
 
   - N/A
 
 ### `Norman Yuan`
+
 - **Achievements and Contributions:**
   - Assisted in the drafting of the team charter.
 - **Challenges Faced:**
@@ -79,18 +77,17 @@ Identify actionable steps that can be taken to improve future projects.
 - **Feedback and Suggestions:**
   - Ensure active participation in all meetings and stay aligned with the team’s progress.
 
-### [Team Member 3]
+### `Huijia Wang`
+
 - **Achievements and Contributions:**
-  -
+  - Discussed and contributed to the team charter
+  - Analyzing pros and cons of differnt framworks and languages for using in project
 - **Challenges Faced:**
-  -
+  - N/A
 - **Areas for Improvement:**
-  -
+  - N/A
 - **Feedback and Suggestions:**
-  -
-
-
----
+  * If the project is assigned, set clear milestones to track progress and choose tool and framework.
 
 ## Overall Team Assessment
 
@@ -101,11 +98,9 @@ Reflect on the team’s performance as a whole.
   - Clear initial division of roles and responsibilities
   - Strong collaboration and communications
   - Early completion of the team charter
-
 - **Areas for Improvement:**
 
   - None identified at this stage, but continued self-assessment will help track ongoing performance.
-
 - **Suggestions for Future Projects:**
 
   - Maintain flexibility in roles if the project requirements shift or if a team member encounters challenges in their area.
