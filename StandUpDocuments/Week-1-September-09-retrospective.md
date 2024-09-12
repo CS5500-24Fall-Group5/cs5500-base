@@ -87,7 +87,7 @@ Identify actionable steps that can be taken to improve future projects.
 - **Areas for Improvement:**
   - N/A
 - **Feedback and Suggestions:**
-  * If the project is assigned, set clear milestones to track progress and choose tool and framework.
+  * If the project is assigned, set clear milestones to track progress and choose language and framework.
 
 ## Overall Team Assessment
 
