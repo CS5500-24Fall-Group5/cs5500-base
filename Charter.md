@@ -51,7 +51,7 @@ To leverage individual strengths and ensure accountability, we have assigned the
 
 - Backend development
 
-3. **Role:** `Yuming Sun` - **TBC**
+4. **Role:** `Yuming Sun` - **TBC**
 
 **Responsibilities:**
 
