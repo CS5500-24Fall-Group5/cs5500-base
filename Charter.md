@@ -13,6 +13,7 @@ This Team Charter outlines the purpose, objectives, roles, responsibilities, and
   1. Anson He
   2. Norman Yuan
   3. Huijia Wang
+  4. Yuming Sun
 
 ## Team Purpose and Objectives
 
@@ -50,6 +51,11 @@ To leverage individual strengths and ensure accountability, we have assigned the
 
 - Backend development
 
+3. **Role:** `Yuming Sun` - **TBC**
+
+**Responsibilities:**
+
+- TBC
 
 ## Team Values and Norms
 
