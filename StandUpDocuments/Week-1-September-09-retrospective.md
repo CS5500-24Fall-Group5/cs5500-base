@@ -13,6 +13,7 @@ Week 1 September 09
 - Anson He
 - Huijia Wang
 - Norman Yuan
+- Yuming Sun
 
 ---
 
@@ -88,6 +89,21 @@ Identify actionable steps that can be taken to improve future projects.
   - N/A
 - **Feedback and Suggestions:**
   * If the project is assigned, set clear milestones to track progress and choose language and framework.
+
+### `Yuming Sun`
+
+- **Achievements and Contributions:**
+
+  - Joined new team and met with team members on teams. Also had a meeting with Juancho this week
+- **Challenges Faced:**
+
+  - N/A
+- **Areas for Improvement:**
+
+  - Due to travel, I was unable to keep in touch with the team in time. Things will return to normal from the next week.
+- **Feedback and Suggestions:**
+
+  - N/A
 
 ## Overall Team Assessment
 
