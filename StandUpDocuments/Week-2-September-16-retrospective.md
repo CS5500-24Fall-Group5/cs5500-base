@@ -90,25 +90,17 @@ Identify actionable steps that can be taken to improve future projects.
 - **Feedback and Suggestions:**
   -
 
-### [Team Member 4]
+### `Yuming Sun`
 - **Achievements and Contributions:**
-  -
-- **Challenges Faced:**
-  -
-- **Areas for Improvement:**
-  -
-- **Feedback and Suggestions:**
-  -
+  - This week, I reviewed the calsheet document and analyzed the front end. And supplemented the front end part in the analysis document.
 
-### [Team Member 5]
-- **Achievements and Contributions:**
-  -
 - **Challenges Faced:**
-  -
+  - I did it later this week. At first, I felt very difficult because I missed the class and there were some bugs in the initial operation of the program. Although it was not difficult, it took me some time. Fortunately, I communicated with the team members in time to solve the problem.
 - **Areas for Improvement:**
-  -
+  - I think the biggest point of improvement is that if there is a problem, you need to communicate with the team members in time and coordinate time for meetings. This is helpful for mutual problem solving.
 - **Feedback and Suggestions:**
-  -
+  - It only took me some time to complete the front end part. I hope that next week I will make arrangements in advance and communicate with the team members in time.
+
 
 ---
 
