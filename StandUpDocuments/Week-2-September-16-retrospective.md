@@ -80,7 +80,7 @@ Identify actionable steps that can be taken to improve future projects.
 ### `Huijia Wang`
 
 - **Achievements and Contributions:**
-  - Analyzed the backend architecture, focusing on RESTful APIs and user management.
+  - Analyzed the backend architecture, focusing on CRUD Operations, validation and processing, and role management.
   - Read the project code and analyzed the design patterns in the project, such as **Singleton** for managing document instances,  **Observer** like polling for update checks, and **MVC** for separating concerns in the backend.
 - **Challenges Faced:**
   - There is a lot of code to read. And sometimes I may forget some part I have read so I taked note to help me analyze the code.
