@@ -1,59 +1,77 @@
 # Retrospective Document Template
 
 ## Team Name
-[Insert Team Name Here]
+
+- **`Group5`**
 
 ## Date
+
 Week 3 September 23
 
 ## Participants
-- [Team Member 1]
-- [Team Member 2]
-- [Team Member 3]
-- [Team Member 4]
-- [Team Member 5]
+
+- Anson He
+- Huijia Wang
+- Norman Yuan
+- Yuming Sun
 
 ---
 
 ## Overview
-Briefly describe the purpose of this retrospective and what you aim to achieve.
+
+The purpose of this retrospective is to reflect on the team’s performance during the first week of the project. We aim to identify our successes, any challenges we faced, and areas for future improvement. This reflection will guide us in ensuring the team stays aligned and continually improves as the project progresses.
 
 ---
 
 ## What Went Well
+
 List the things that went well during the project.
--
--
--
+
+- Finalized analyze on the calc-sheet codebase.
+- Drafted the BCCancer project overview, context and main challenges.
+- Started discussion about which pain point we should focus on.
+
+---
 
 ---
 
 ## What Could Be Improved
+
 List the areas where there is room for improvement.
--
--
--
+
+- Spend more time to investigate the feasibility of different challenges.
 
 ---
 
 ## Action Items
+
 Identify actionable steps that can be taken to improve future projects.
-1.
-2.
-3.
+
+1. Maintain the daily communications within the team.
 
 ---
 
 ## Individual Self-Assessments
-### [Team Member 1]
+
+### `Anson He`
+
 - **Achievements and Contributions:**
-  -
+
+  - Contributed and drafted the initial documentation of the BCCancer project
+  - Specify the Product Brief (What & Why)
+
 - **Challenges Faced:**
-  -
+
+  - BCCancer describe the problem at a higher level, need to break down the problem into smaller challenges that we can deal with in a short frame of time
+  - Descriptions are represented in words, having visualization of the entire workflow and managing events would be better
+
 - **Areas for Improvement:**
-  -
+
+  - Need to update teammates in a more frequent manner
+
 - **Feedback and Suggestions:**
-  -
+
+  - Discuss with team members which challenge we should focus on and start spending time on expand on possible solutions
 
 ### [Team Member 2]
 - **Achievements and Contributions:**
