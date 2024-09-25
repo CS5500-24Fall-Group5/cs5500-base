@@ -70,7 +70,6 @@ Identify actionable steps that can be taken to improve future projects.
 
 - **Achievements and Contributions:**
   - Led the analysis of the backend architecture, focusing on RESTful APIs and user management.
-  - Analyzed the frontend components, including multi-screen navigation and API integration.
 - **Challenges Faced:**
   - Deciphering complex state management without hands-on manipulation.
 - **Areas for Improvement:**
