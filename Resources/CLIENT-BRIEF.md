@@ -25,9 +25,10 @@ Key pain points identified include:
 
 The goal is to automate and improve BC Cancer's fundraising processes by enhancing data management, reducing manual work, and integrating systems for more efficient donor engagement.
 
-1. **Automated Data Management**: Replace manual extraction and sorting of donor lists with an automated system.
+1. **Automated Donor List Creation**: Replace manual extraction and sorting of donor lists with an automated system.
 2. **Integrated Feedback Loop**: Create a system where donor engagement outcomes are automatically updated(Manual reasonings), allowing fundraisers to adjust future actions based on past behaviors.
-3. **Streamlined Event Planning**: Enable fundraisers to generate targeted donor lists quickly based on involvement in specific areas (e.g., regional events, disease-specific support) and reduce repetitive tasks.
-4. **Enhanced Reporting & Tracking**: Implement a tracking system that enables managers to monitor event planning and donor engagement progress visually and in real-time.
+3. **Improve data integration**：Ensure smooth data flow between CRM and event systems for better coordination.
+4. **Streamlined Event Planning**: Enable fundraisers to generate targeted donor lists quickly based on involvement in specific areas (e.g., regional events, disease-specific support) and reduce repetitive tasks.
+5. **Enhanced Reporting & Tracking**: Implement a tracking system that enables managers to monitor event planning and donor engagement progress visually and in real-time.
 
 BC Cancer seeks a more automated, integrated, and data-driven approach to streamline their fundraising operations, reduce manual workload, and enhance overall donor engagement. The goal is to develop a proof of concept that demonstrates how improved data integration, smarter workflows, and an enhanced review list process can better support their strategic fundraising efforts.
