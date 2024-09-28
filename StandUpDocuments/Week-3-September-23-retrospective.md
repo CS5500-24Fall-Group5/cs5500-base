@@ -97,16 +97,20 @@ Identify actionable steps that can be taken to improve future projects.
 
   - Establish regular check-ins to discuss progress on individual tasks and resolve any blockers early.
 
-### [Team Member 4]
+### `Yuming Sun`
 
 - **Achievements and Contributions:**
-  -------------------------------
+
+  - Watched the video about BC cancer project again and discussed with the group members.
 - **Challenges Faced:**
-  -----------------
+
+  - Due to holidays, we may postpone the actual start of the project. This may cause deviations in the timeline.
 - **Areas for Improvement:**
-  ----------------------
+
+  - Need to discuss with teammates in a more frequent manner due to the holiday.
 - **Feedback and Suggestions:**
-  -------------------------
+
+  - Discuss with team members in a more frequent manner due to the holiday.
 
 ### [Team Member 5]
 
