@@ -70,16 +70,19 @@ Identify actionable steps that can be taken to improve future projects.
 
   - Discuss with team members which challenge we should focus on and start spending time on expand on possible solutions
 
-### [Team Member 2]
+### `Norman Yuan`
 
-- **Achievements and Contributions:**
-  -------------------------------
-- **Challenges Faced:**
-  -----------------
-- **Areas for Improvement:**
-  ----------------------
-- **Feedback and Suggestions:**
-  -------------------------
+**Achievements and Contributions:**
+- Analyzed the feasibility of different challenges and participated actively in discussions on project scope.
+
+**Challenges Faced:**
+- Struggled with aligning the technical feasibility of solutions with the project timeline constraints.
+
+**Areas for Improvement:**
+- Better anticipate technical challenges early to align project goals with realistic timelines.
+
+**Feedback and Suggestions:**
+- Propose using diagrams to outline proposed solutions, which could facilitate understanding and decision-making.
 
 ### `Huijia Wang`
 
@@ -112,17 +115,6 @@ Identify actionable steps that can be taken to improve future projects.
 
   - Discuss with team members in a more frequent manner due to the holiday.
 
-### [Team Member 5]
-
-- **Achievements and Contributions:**
-  -------------------------------
-- **Challenges Faced:**
-  -----------------
-- **Areas for Improvement:**
-  ----------------------
-- **Feedback and Suggestions:**
-  -------------------------
-
 ---
 
 ## Overall Team Assessment
@@ -130,15 +122,17 @@ Identify actionable steps that can be taken to improve future projects.
 Reflect on the team’s performance as a whole.
 
 - **Team Strengths:**
-  ---------------
+  - The team demonstrates strong collaborative skills and active participation in discussions.
+  - Everyone contributed meaningfully to initial project scoping and documentation efforts.
 - **Areas for Improvement:**
-  ----------------------
+  - Need to refine communication strategies to ensure task breakdowns are clear and specific.
+  - Improve time management around holidays to stay on track with the project timeline.
 - **Suggestions for Future Projects:**
-  --------------------------------
+  - Develop a more structured approach to tackling complex tasks by breaking them into smaller, more manageable components.
 
 ---
 
 ## Additional Comments
 
 Add any additional comments or notes that may be relevant.
-----------------------------------------------------------
+This retrospective reflects our commitment to continuous improvement and collaboration as we move forward with the BC Cancer project.
