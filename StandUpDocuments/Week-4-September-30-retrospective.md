@@ -1,59 +1,74 @@
 # Retrospective Document Template
 
 ## Team Name
-[Insert Team Name Here]
+
+- **`Group5`**
 
 ## Date
-Week 4 September 30
+
+Week 3 September 30
 
 ## Participants
-- [Team Member 1]
-- [Team Member 2]
-- [Team Member 3]
-- [Team Member 4]
-- [Team Member 5]
+
+- Anson He
+- Huijia Wang
+- Norman Yuan
+- Yuming Sun
 
 ---
 
 ## Overview
-Briefly describe the purpose of this retrospective and what you aim to achieve.
 
----
+The purpose of this retrospective is to reflect on the team’s performance during the first week of the project. We aim to identify our successes, any challenges we faced, and areas for future improvement. This reflection will guide us in ensuring the team stays aligned and continually improves as the project progresses.
 
 ## What Went Well
+
 List the things that went well during the project.
--
--
--
+
+- Started discussions on high level design of the BCCancer
+- Discussing which part we should focus on, to what extent
+
+---
 
 ---
 
 ## What Could Be Improved
+
 List the areas where there is room for improvement.
--
--
--
+
+- Invest more time and work into this project
 
 ---
 
 ## Action Items
+
 Identify actionable steps that can be taken to improve future projects.
-1.
-2.
-3.
+
+1. Document each discussions and therefore can reference the discussions in the future
+
 
 ---
 
 ## Individual Self-Assessments
-### [Team Member 1]
+
+### `Anson He`
+
 - **Achievements and Contributions:**
-  -
+
+  - Started brainstorming the potential product "features" that we can implement
+
 - **Challenges Faced:**
-  -
+
+- Break down the high level requirement into small "product" feature, that we should focus on
+- How much depth/to what extent should we implement such feature
+
 - **Areas for Improvement:**
-  -
+
+- Should put more time to invest into this project
+
 - **Feedback and Suggestions:**
-  -
+
+  - N/A
 
 ### [Team Member 2]
 - **Achievements and Contributions:**
