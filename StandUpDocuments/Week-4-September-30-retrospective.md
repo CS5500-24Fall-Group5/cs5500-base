@@ -46,7 +46,6 @@ Identify actionable steps that can be taken to improve future projects.
 
 1. Document each discussions and therefore can reference the discussions in the future
 
-
 ---
 
 ## Individual Self-Assessments
@@ -56,73 +55,80 @@ Identify actionable steps that can be taken to improve future projects.
 - **Achievements and Contributions:**
 
   - Started brainstorming the potential product "features" that we can implement
-
 - **Challenges Faced:**
-
 - Break down the high level requirement into small "product" feature, that we should focus on
 - How much depth/to what extent should we implement such feature
-
 - **Areas for Improvement:**
-
 - Should put more time to invest into this project
-
 - **Feedback and Suggestions:**
 
   - N/A
 
 ### [Team Member 2]
-- **Achievements and Contributions:**
-  -
-- **Challenges Faced:**
-  -
-- **Areas for Improvement:**
-  -
-- **Feedback and Suggestions:**
-  -
 
-### [Team Member 3]
 - **Achievements and Contributions:**
-  -
+  -------------------------------
 - **Challenges Faced:**
-  -
+  -----------------
 - **Areas for Improvement:**
-  -
+  ----------------------
 - **Feedback and Suggestions:**
-  -
+  -------------------------
+
+### `Huijia Wang`
+
+- **Achievements and Contributions:**
+
+  * Reviewed the project data and considered the intended functionalities to implement.
+- **Challenges Faced:**
+
+  - Determining how to better handle data and extract useful information.
+  - Deciding which machine learning models to use for implementing the desired functionalities.
+- **Areas for Improvement:**
+
+  - Gain more knowledge on various machine learning models to make informed decisions.
+- **Feedback and Suggestions:**
+
+  - N/A
 
 ### [Team Member 4]
+
 - **Achievements and Contributions:**
-  -
+  -------------------------------
 - **Challenges Faced:**
-  -
+  -----------------
 - **Areas for Improvement:**
-  -
+  ----------------------
 - **Feedback and Suggestions:**
-  -
+  -------------------------
 
 ### [Team Member 5]
+
 - **Achievements and Contributions:**
-  -
+  -------------------------------
 - **Challenges Faced:**
-  -
+  -----------------
 - **Areas for Improvement:**
-  -
+  ----------------------
 - **Feedback and Suggestions:**
-  -
+  -------------------------
 
 ---
 
 ## Overall Team Assessment
+
 Reflect on the team’s performance as a whole.
+
 - **Team Strengths:**
-  -
+  ---------------
 - **Areas for Improvement:**
-  -
+  ----------------------
 - **Suggestions for Future Projects:**
-  -
+  --------------------------------
 
 ---
 
 ## Additional Comments
+
 Add any additional comments or notes that may be relevant.
--
+----------------------------------------------------------
