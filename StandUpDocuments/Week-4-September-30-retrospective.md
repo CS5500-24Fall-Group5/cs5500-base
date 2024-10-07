@@ -6,7 +6,7 @@
 
 ## Date
 
-Week 3 September 30
+Week 4 September 30
 
 ## Participants
 
