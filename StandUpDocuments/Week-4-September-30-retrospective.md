@@ -91,16 +91,23 @@ Identify actionable steps that can be taken to improve future projects.
 
   - N/A
 
-### [Team Member 4]
+### `Yuming Sun`
 
 - **Achievements and Contributions:**
-  -------------------------------
+
+  * Start studying the data initially.
 - **Challenges Faced:**
-  -----------------
+
+  - Need to communicate closely with the team.
+  - Due to health reasons, I may miss 7 days of classes.
 - **Areas for Improvement:**
-  ----------------------
+
+  - N/A
+
 - **Feedback and Suggestions:**
-  -------------------------
+
+  - N/A
+  
 
 ### [Team Member 5]
 
