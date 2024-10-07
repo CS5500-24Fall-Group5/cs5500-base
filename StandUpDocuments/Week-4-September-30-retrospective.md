@@ -64,16 +64,17 @@ Identify actionable steps that can be taken to improve future projects.
 
   - N/A
 
-### [Team Member 2]
+### `Norman Yuan`
 
 - **Achievements and Contributions:**
-  -------------------------------
+  - Contributed to discussions about the technical architecture and scope of features.
 - **Challenges Faced:**
-  -----------------
+  - Aligning the technical requirements with project goals and deadlines.
+  - Determining the feasibility of implementing certain features within the available time frame.
 - **Areas for Improvement:**
-  ----------------------
+  - Improve time management to balance this project with other commitments.
 - **Feedback and Suggestions:**
-  -------------------------
+  - Focus on creating a clearer roadmap for feature development.
 
 ### `Huijia Wang`
 
@@ -107,18 +108,6 @@ Identify actionable steps that can be taken to improve future projects.
 - **Feedback and Suggestions:**
 
   - N/A
-  
-
-### [Team Member 5]
-
-- **Achievements and Contributions:**
-  -------------------------------
-- **Challenges Faced:**
-  -----------------
-- **Areas for Improvement:**
-  ----------------------
-- **Feedback and Suggestions:**
-  -------------------------
 
 ---
 
@@ -127,15 +116,16 @@ Identify actionable steps that can be taken to improve future projects.
 Reflect on the team’s performance as a whole.
 
 - **Team Strengths:**
-  ---------------
+  - Strong collaboration in initial discussions and brainstorming.
+  - Each team member is committed to understanding the project's complexities and identifying key focus areas.
 - **Areas for Improvement:**
-  ----------------------
+  - Need to dedicate more time to the project to ensure timely progress.
+  - Improve documentation of discussions to avoid miscommunication and ensure all team members are aligned.
 - **Suggestions for Future Projects:**
-  --------------------------------
-
+  - Establish a more structured meeting schedule with specific goals for each session.
 ---
 
 ## Additional Comments
 
-Add any additional comments or notes that may be relevant.
+- The team is making progress, but the upcoming absences and time constraints pose challenges. With better documentation and increased time investment, we can ensure that the project stays on track.
 ----------------------------------------------------------
