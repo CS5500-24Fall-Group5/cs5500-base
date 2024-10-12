@@ -73,15 +73,17 @@ Identify actionable steps that can be taken to improve future projects.
 
   - N/A
 
-### [Team Member 2]
+### `Norman Yuan`
+
 - **Achievements and Contributions:**
-  -
+  - Helped in selecting the feature that aligns with our capabilities and project goals.
+  - Assisted in drafting the feature proposal slides.
 - **Challenges Faced:**
-  -
+  - Identifying how to efficiently integrate the chosen feature with existing data.
 - **Areas for Improvement:**
-  -
+  - Increase collaboration with teammates during the planning stage.
 - **Feedback and Suggestions:**
-  -
+  - N/A
 
 ### [Team Member 3]
 - **Achievements and Contributions:**
@@ -116,16 +118,21 @@ Identify actionable steps that can be taken to improve future projects.
 ---
 
 ## Overall Team Assessment
-Reflect on the team’s performance as a whole.
+
 - **Team Strengths:**
-  -
+  - Strong collaboration in discussing and selecting the right feature.
+  - Effective use of individual strengths in drafting the proposal and analyzing feasibility.
 - **Areas for Improvement:**
-  -
+  - More thorough documentation of discussions for future reference.
+  - Allocate time to explore alternative solutions to the selected feature.
 - **Suggestions for Future Projects:**
-  -
+  - Establish a clearer communication plan to handle any unforeseen challenges like absences.
+  - Schedule regular feedback sessions with stakeholders for continuous alignment.
 
 ---
 
 ## Additional Comments
-Add any additional comments or notes that may be relevant.
+
+- Continue focusing on improving our proposal based on stakeholder feedback to ensure it aligns with BC Cancer's needs.
+- Keep monitoring the project timeline to ensure we meet all milestones effectively.
 -
