@@ -37,7 +37,7 @@ List the things that went well during the project.
 List the areas where there is room for improvement.
 
 - Also invest into the other two product features and evaluate feasibility
-- Explore if there are multiple way of implementing our proposed features 
+- Explore if there are multiple way of implementing our proposed features
 
 ---
 
@@ -58,17 +58,12 @@ Identify actionable steps that can be taken to improve future projects.
 
   - Drafted the initial project proposal presentation on shared drive
   - Proposed 2 possible features
-
 - **Challenges Faced:**
-
 - The actual implementation of the features can be very complex
 - Different feature may need different data input(i.e data provided by Juancho is not enough for our case)
-
 - **Areas for Improvement:**
-
 - More discussions with team mates and other teams to get more insights
 - When drafting features, try to overthink the next steps, such as implementation
-
 - **Feedback and Suggestions:**
 
   - N/A
@@ -85,35 +80,39 @@ Identify actionable steps that can be taken to improve future projects.
 - **Feedback and Suggestions:**
   - N/A
 
-### [Team Member 3]
+### `Huijia Wang`
+
 - **Achievements and Contributions:**
-  -
+  - Participated in drafting the product feature proposal presentation slides.
+  - Discussed and decided part of project features based on data analysis.
 - **Challenges Faced:**
-  -
+  - Evaluating which feature would provide the most significant impact and aligning it with BC Cancer's current needs.
 - **Areas for Improvement:**
-  -
+  - Enhancing collaboration with team members to streamline feature selection and implementation processes.
 - **Feedback and Suggestions:**
-  -
+  - N/A
 
 ### [Team Member 4]
+
 - **Achievements and Contributions:**
-  -
+  -------------------------------
 - **Challenges Faced:**
-  -
+  -----------------
 - **Areas for Improvement:**
-  -
+  ----------------------
 - **Feedback and Suggestions:**
-  -
+  -------------------------
 
 ### [Team Member 5]
+
 - **Achievements and Contributions:**
-  -
+  -------------------------------
 - **Challenges Faced:**
-  -
+  -----------------
 - **Areas for Improvement:**
-  -
+  ----------------------
 - **Feedback and Suggestions:**
-  -
+  -------------------------
 
 ---
 
