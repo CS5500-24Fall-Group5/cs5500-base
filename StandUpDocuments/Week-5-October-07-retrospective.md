@@ -92,16 +92,16 @@ Identify actionable steps that can be taken to improve future projects.
 - **Feedback and Suggestions:**
   - N/A
 
-### [Team Member 4]
+### `Yuming Sun`
 
 - **Achievements and Contributions:**
-  -------------------------------
+  - Practice the further presentation.
 - **Challenges Faced:**
-  -----------------
+  - Although the presentation is simple, there may be much more to do than the demonstration.
 - **Areas for Improvement:**
-  ----------------------
+  - N/A
 - **Feedback and Suggestions:**
-  -------------------------
+  - N/A
 
 ### [Team Member 5]
 
