@@ -1,0 +1,440 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+    <link rel="stylesheet" href="styles.css">
+    <title>Donor Lifecycle Management</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f0f2f5;
+            color: #333;
+        }
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 20px;
+            background-color: #fff;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            border-radius: 8px;
+        }
+        header {
+            text-align: center;
+            padding-bottom: 20px;
+            border-bottom: 1px solid #ddd;
+        }
+        #donor-list {
+            margin-top: 30px;
+        }
+        #donor-table {
+            width: 100%;
+            border-collapse: collapse;
+        }
+        #donor-table th, #donor-table td {
+            padding: 10px;
+            border: 1px solid #ddd;
+            text-align: center;
+        }
+        #donor-table th {
+            background-color: #f8f9fa;
+        }
+        #donor-lifecycle {
+            margin-top: 30px;
+            text-align: center;
+        }
+        #lifecycle-filter {
+            padding: 8px;
+            margin: 10px;
+        }
+        #add-donor {
+            background-color: #007bff;
+            color: #fff;
+            border: none;
+            padding: 10px 20px;
+            cursor: pointer;
+            border-radius: 4px;
+            transition: background-color 0.3s ease;
+        }
+        #add-donor:hover {
+            background-color: #0056b3;
+        }
+        .donor-actions {
+            display: flex;
+            justify-content: center;
+            gap: 10px;
+        }
+        .donor-actions button {
+            padding: 5px 10px;
+            border: none;
+            border-radius: 4px;
+            cursor: pointer;
+        }
+        .btn-edit {
+            background-color: #28a745;
+            color: #fff;
+        }
+        .btn-delete {
+            background-color: #dc3545;
+            color: #fff;
+        }
+        .btn-edit:hover {
+            background-color: #218838;
+        }
+        .btn-delete:hover {
+            background-color: #c82333;
+        }
+        /* Modal styling */
+        .modal {
+            display: none;
+            position: fixed;
+            z-index: 1;
+            left: 0;
+            top: 0;
+            width: 100%;
+            height: 100%;
+            overflow: auto;
+            background-color: rgba(0, 0, 0, 0.4);
+        }
+        .modal-content {
+            background-color: #fff;
+            margin: 10% auto;
+            padding: 20px;
+            border: 1px solid #888;
+            width: 80%;
+            border-radius: 8px;
+        }
+        .close {
+            color: #aaa;
+            float: right;
+            font-size: 28px;
+            font-weight: bold;
+        }
+        .close:hover,
+        .close:focus {
+            color: black;
+            text-decoration: none;
+            cursor: pointer;
+        }
+        .form-group {
+            margin-bottom: 15px;
+        }
+        .form-group label {
+            display: block;
+            margin-bottom: 5px;
+        }
+        .form-group input, .form-group select, .form-group textarea {
+            width: 100%;
+            padding: 8px;
+            box-sizing: border-box;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>BC Cancer Foundation - Donor Lifecycle Management</h1>
+            <p>Automatically categorize donors into stages and provide tailored engagement strategies.</p>
+        </header>
+
+        <section id="donor-list">
+            <h2>Donor Data Overview</h2>
+            <table id="donor-table">
+                <thead>
+                    <tr>
+                        <th>First Name</th>
+                        <th>Last Name</th>
+                        <th>City</th>
+                        <th>Total Donations</th>
+                        <th>Last Gift Amount</th>
+                        <th>Last Gift Date</th>
+                        <th>Lifecycle Stage</th>
+                        <th>Comment</th>
+                        <th>Actions</th>
+                    </tr>
+                </thead>
+                <tbody id="donor-table-body">
+                    <!-- Donor data will be populated here -->
+                </tbody>
+            </table>
+        </section>
+
+        <section id="donor-lifecycle">
+            <h2>Manage Donor Lifecycle</h2>
+            <label for="lifecycle-filter">Filter Donors by Stage:</label>
+            <select id="lifecycle-filter">
+                <option value="">All</option>
+                <option value="new">New</option>
+                <option value="active">Active</option>
+                <option value="at-risk">At-Risk</option>
+                <option value="lapsed">Lapsed</option>
+            </select>
+
+            <button id="add-donor"><i class="fas fa-user-plus"></i> Add New Donor</button>
+        </section>
+
+        <footer>
+            <p>BC Cancer Foundation &copy; 2024</p>
+        </footer>
+    </div>
+
+    <!-- Edit Donor Modal -->
+    <div id="editDonorModal" class="modal">
+        <div class="modal-content">
+            <span class="close">&times;</span>
+            <h2>Edit Donor Details</h2>
+            <div class="form-group">
+                <label for="editFirstName">First Name</label>
+                <input type="text" id="editFirstName">
+            </div>
+            <div class="form-group">
+                <label for="editLastName">Last Name</label>
+                <input type="text" id="editLastName">
+            </div>
+            <div class="form-group">
+                <label for="editCity">City</label>
+                <input type="text" id="editCity">
+            </div>
+            <div class="form-group">
+                <label for="editTotalDonations">Total Donations</label>
+                <input type="number" id="editTotalDonations">
+            </div>
+            <div class="form-group">
+                <label for="editLastGiftDate">Last Gift Date</label>
+                <input type="date" id="editLastGiftDate">
+            </div>
+            <div class="form-group">
+                <label for="editLifecycleStage">Lifecycle Stage</label>
+                <select id="editLifecycleStage">
+                    <option value="new">New</option>
+                    <option value="active">Active</option>
+                    <option value="at-risk">At-Risk</option>
+                    <option value="lapsed">Lapsed</option>
+                </select>
+            </div>
+            <div class="form-group">
+                <label for="editComment">Comment</label>
+                <textarea id="editComment" placeholder="Add a comment about this donor..."></textarea>
+            </div>
+            <button id="saveDonorChanges" class="btn-edit">Save Changes</button>
+        </div>
+    </div>
+
+    <!-- Add New Donor Modal -->
+    <div id="addDonorModal" class="modal">
+        <div class="modal-content">
+            <span class="close">&times;</span>
+            <h2>Add New Donor</h2>
+            <div class="form-group">
+                <label for="addFirstName">First Name</label>
+                <input type="text" id="addFirstName">
+            </div>
+            <div class="form-group">
+                <label for="addLastName">Last Name</label>
+                <input type="text" id="addLastName">
+            </div>
+            <div class="form-group">
+                <label for="addCity">City</label>
+                <input type="text" id="addCity">
+            </div>
+            <div class="form-group">
+                <label for="addTotalDonations">Total Donations</label>
+                <input type="number" id="addTotalDonations">
+            </div>
+            <div class="form-group">
+                <label for="addLastGiftDate">Last Gift Date</label>
+                <input type="date" id="addLastGiftDate">
+            </div>
+            <div class="form-group">
+                <label for="addLifecycleStage">Lifecycle Stage</label>
+                <select id="addLifecycleStage">
+                    <option value="new">New</option>
+                    <option value="active">Active</option>
+                    <option value="at-risk">At-Risk</option>
+                    <option value="lapsed">Lapsed</option>
+                </select>
+            </div>
+            <div class="form-group">
+                <label for="addComment">Comment</label>
+                <textarea id="addComment" placeholder="Add a comment about this donor..."></textarea>
+            </div>
+            <button id="saveNewDonor" class="btn-edit">Add Donor</button>
+        </div>
+    </div>
+
+    <!-- Delete Donor Modal -->
+    <div id="deleteDonorModal" class="modal">
+        <div class="modal-content">
+            <span class="close">&times;</span>
+            <h2>Delete Donor</h2>
+            <p>Are you sure you want to delete this donor?</p>
+            <button id="confirmDeleteDonor" class="btn-delete">Delete</button>
+            <button id="cancelDeleteDonor" class="btn-edit">Cancel</button>
+        </div>
+    </div>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+    <script>
+        $(document).ready(function() {
+            // Sample data from the given endpoint
+            const donorData = {
+                "headers": ["pmm","smm","vmm","exclude","deceased","first_name","nick_name","last_name","organization_name","total_donations","total_pledge","largest_gift","largest_gift_appeal","first_gift_date","last_gift_date","last_gift_amount","last_gift_request","last_gift_appeal","address_line1","address_line2","city","contact_phone_type","phone_restrictions","email_restrictions","communication_restrictions","subscription_events_in_person","subscription_events_magazine","communication_preference"],
+                "data": [
+                    ["Gurtrude Schmidt","Jane Doe","Chao Nguyen","no","no","Carlos","Angel","Иванов","Wacky Widgets",31138,982046,29677,"Appeal2",1609672266,983432926,1268,1721395362,"Appeal3","606 Aspen Circle","Apt 909","Victoria","Home","No Surveys","No Mass Communications","","Opt-out","Opt-out","Survey"],
+                    ["Parvati Patel","Alice Smith","Priya Gupta","no","no","Chao","Peach","Lee","Hilarity Holdings",0,822330,0,"Appeal2",0,0,0,1724051290,"Appeal2","404 Spruce Road","Unit 808","Vancouver","Work","No Mass Appeals","No Mass Appeals","No Surveys","Opt-out","Opt-in","Event"],
+                    ["Peter Smith","Jane Doe","Chao Nguyen","no","no","Hiroshi","","Chen","",0,502476,0,"Appeal2",0,0,0,1724719044,"Appeal3","808 Cypress Place","Apt 222","Victoria","Home","Do Not Call","No Mass Appeals","Do Not Email","Opt-in","Opt-in","Inspiration event"],
+                    ["Parvati Patel","Alice Smith","Priya Gupta","no","no","Carlos","","Smith","",798634,386454,201896,"Appeal1",1624824809,1070633221,317614,1714013759,"Appeal3","1313 Poplarwood Street","","Vancouver","Mobile","No Mass Communications","","No Mass Communications","Opt-out","Opt-out","Newsletter"],
+                    ["Peter Smith","John Doe","Chao Nguyen","no","no","Zainab","Buttercup","Hernández","",273086,502242,189214,"Appeal2",1618407176,1611444352,74234,1713191181,"Appeal3","999 Alder Terrace","Apt 787","Victoria","Home","","No Surveys","","Opt-out","Opt-in","Thank you"],
+                    ["Parvati Patel","Alice Smith","Priya Gupta","yes","no","Ingrid","","Smith","",0,0,0,"Appeal1",0,0,0,1723375570,"Appeal2","808 Cypress Place","","Vancouver","Work","No Mass Appeals","No Mass Appeals","No Mass Communications","Opt-in","Opt-in","Newsletter"],
+                    ["Peter Smith","John Doe","Sven Müller","no","no","Leila","","Gupta","",493379,6612,397087,"Appeal1",1693901791,1430729005,15270,1725211452,"Appeal1","898 Willowwood Road","Unit 606","Victoria","Work","","","","Opt-out","Opt-in","Inspiration event"],
+                    ["Hiroshi Nakamura","Alice Smith","Priya Gupta","no","no","Leila","Champ","Müller","",749143,857834,480863,"Appeal2",1645673756,849710107,163140,1725234631,"Appeal2","909 Fir Street","Unit 808","Vancouver","Home","No Mass Appeals","Do Not Email","","Opt-in","Opt-in","Holiday Card"],
+                    ["Hiroshi Nakamura","Bob Brown","Olga Smirnov","yes","no","Alice","","Ahmed","",0,223662,0,"Appeal2",0,0,0,1713819689,"Appeal2","808 Cypress Place","Apt 444","Vancouver","Home","","No Mass Communications","No Surveys","Opt-out","Opt-out","Newsletter"],
+                    ["Gurtrude Schmidt","John Doe","Sven Müller","no","no","Amina","Darling","López","",0,0,0,"Appeal3",0,0,0,1704300474,"Appeal1","121 Maplewood Place","","Victoria","Home","","No Surveys","","Opt-in","Opt-in","Inspiration event"]
+                ]
+            };
+
+            // Populate donor data into the table
+            const lifecycleStages = ["New", "Active", "At-Risk", "Lapsed"];
+
+            donorData.data.forEach(donor => {
+                const firstName = donor[5];
+                const lastName = donor[7];
+                const city = donor[20];
+                const totalDonations = `$${donor[9].toLocaleString()}`;
+                const lastGiftAmount = `$${donor[15].toLocaleString()}`;
+                const lastGiftDate = new Date(donor[14] * 1000).toLocaleDateString();
+                const lifecycleStage = lifecycleStages[Math.floor(Math.random() * lifecycleStages.length)];
+                const comment = "";  // Initially empty comment
+
+                const row = `
+                    <tr>
+                        <td>${firstName}</td>
+                        <td>${lastName}</td>
+                        <td>${city}</td>
+                        <td>${totalDonations}</td>
+                        <td>${lastGiftAmount}</td>
+                        <td>${lastGiftDate}</td>
+                        <td>${lifecycleStage}</td>
+                        <td class="donor-comment">${comment}</td>
+                        <td class="donor-actions">
+                            <button class="btn-edit"><i class="fas fa-edit"></i> Edit</button>
+                            <button class="btn-delete"><i class="fas fa-trash-alt"></i> Delete</button>
+                        </td>
+                    </tr>
+                `;
+
+                $('#donor-table-body').append(row);
+            });
+
+            // Filter donors by lifecycle stage
+            $('#lifecycle-filter').change(function() {
+                const stage = $(this).val().toLowerCase();
+                if (stage) {
+                    $('#donor-table tbody tr').hide().filter(function() {
+                        return $(this).find('td:nth-child(7)').text().toLowerCase() === stage;
+                    }).show();
+                } else {
+                    $('#donor-table tbody tr').show();
+                }
+            });
+
+            // Delete donor
+            $(document).on('click', '.btn-delete', function() {
+                const row = $(this).closest('tr');
+                const firstName = row.find('td:eq(0)').text();
+                const lastName = row.find('td:eq(1)').text();
+                $('#deleteDonorModal').show();
+
+                // Confirm delete
+                $('#confirmDeleteDonor').off('click').on('click', function() {
+                    row.remove();
+                    $('#deleteDonorModal').hide();
+                });
+
+                // Cancel delete
+                $('#cancelDeleteDonor').click(function() {
+                    $('#deleteDonorModal').hide();
+                });
+            });
+
+            // Edit donor
+            $(document).on('click', '.btn-edit', function() {
+                const row = $(this).closest('tr');
+                const firstName = row.find('td:eq(0)').text();
+                const lastName = row.find('td:eq(1)').text();
+                const city = row.find('td:eq(2)').text();
+                const totalDonations = row.find('td:eq(3)').text().replace(/[$,]/g, '');
+                const lastGiftDate = new Date(row.find('td:eq(5)').text()).toISOString().split('T')[0];
+                const lifecycleStage = row.find('td:eq(6)').text().toLowerCase();
+                const comment = row.find('td.donor-comment').text();
+
+                // Populate the modal fields
+                $('#editFirstName').val(firstName);
+                $('#editLastName').val(lastName);
+                $('#editCity').val(city);
+                $('#editTotalDonations').val(totalDonations);
+                $('#editLastGiftDate').val(lastGiftDate);
+                $('#editLifecycleStage').val(lifecycleStage);
+                $('#editComment').val(comment);
+
+                // Show the modal
+                $('#editDonorModal').show();
+
+                // Save changes in Edit Donor Modal
+                $('#saveDonorChanges').off('click').on('click', function() {
+                    row.find('td:eq(0)').text($('#editFirstName').val());
+                    row.find('td:eq(1)').text($('#editLastName').val());
+                    row.find('td:eq(2)').text($('#editCity').val());
+                    row.find('td:eq(3)').text(`$${Number($('#editTotalDonations').val()).toLocaleString()}`);
+                    row.find('td:eq(5)').text(new Date($('#editLastGiftDate').val()).toLocaleDateString());
+                    row.find('td:eq(6)').text($('#editLifecycleStage').val().charAt(0).toUpperCase() + $('#editLifecycleStage').val().slice(1));
+                    row.find('td.donor-comment').text($('#editComment').val());
+                    $('#editDonorModal').hide();
+                });
+            });
+
+            // Close modals
+            $('.close').click(function() {
+                $('.modal').hide();
+            });
+
+            // Add new donor
+            $('#add-donor').click(function() {
+                $('#addDonorModal').show();
+            });
+
+            // Save new donor
+            $('#saveNewDonor').click(function() {
+                const firstName = $('#addFirstName').val();
+                const lastName = $('#addLastName').val();
+                const city = $('#addCity').val();
+                const totalDonations = `$${Number($('#addTotalDonations').val()).toLocaleString()}`;
+                const lastGiftDate = new Date($('#addLastGiftDate').val()).toLocaleDateString();
+                const lifecycleStage = $('#addLifecycleStage').val();
+                const comment = $('#addComment').val();
+
+                const row = `
+                    <tr>
+                        <td>${firstName}</td>
+                        <td>${lastName}</td>
+                        <td>${city}</td>
+                        <td>${totalDonations}</td>
+                        <td>$0</td>
+                        <td>${lastGiftDate}</td>
+                        <td>${lifecycleStage.charAt(0).toUpperCase() + lifecycleStage.slice(1)}</td>
+                        <td class="donor-comment">${comment}</td>
+                        <td class="donor-actions">
+                            <button class="btn-edit"><i class="fas fa-edit"></i> Edit</button>
+                            <button class="btn-delete"><i class="fas fa-trash-alt"></i> Delete</button>
+                        </td>
+                    </tr>
+                `;
+
+                $('#donor-table-body').append(row);
+                $('#addDonorModal').hide();
+            });
+        });
+    </script>
+</body>
+</html>
