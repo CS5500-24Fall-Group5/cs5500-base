@@ -1,59 +1,79 @@
 # Retrospective Document Template
 
 ## Team Name
-[Insert Team Name Here]
+
+- **`Group5`**
 
 ## Date
-Week 6 October 14
+
+Week 5 October 07
 
 ## Participants
-- [Team Member 1]
-- [Team Member 2]
-- [Team Member 3]
-- [Team Member 4]
-- [Team Member 5]
+
+- Anson He
+- Huijia Wang
+- Norman Yuan
+- Yuming Sun
 
 ---
 
 ## Overview
-Briefly describe the purpose of this retrospective and what you aim to achieve.
 
----
+Briefly describe the purpose of this retrospective and what you aim to achieve.
+The purpose of this retrospective is to reflect on the team’s performance during the first week of the project. We aim to identify our successes, any challenges we faced, and areas for future improvement. This reflection will guide us in ensuring the team stays aligned and continually improves as the project progresses.
 
 ## What Went Well
+
 List the things that went well during the project.
--
--
--
+
+- Completed the project proposal presentation
+- Implemented a wireframe for the proposal feature
+- Start thinking ahead how the feature can be implemented
+
+---
 
 ---
 
 ## What Could Be Improved
+
 List the areas where there is room for improvement.
--
--
--
+
+- More discussions of the tech stacks being chosen, consider trade offs
+- Generally more time should be investing from now on for delivering MVP
+
 
 ---
 
 ## Action Items
+
 Identify actionable steps that can be taken to improve future projects.
-1.
-2.
-3.
+
+1. Research different tech stacks and understand their strengths and weakness
 
 ---
 
 ## Individual Self-Assessments
-### [Team Member 1]
+
+### `Anson He`
+
 - **Achievements and Contributions:**
-  -
+
+  - Contributed to the project proposal presentation
+  - contributed to the tech stacks chosen for the feature
+
 - **Challenges Faced:**
-  -
+
+  - Need some practice for Next.js, only used for a smaller project before
+  - Writing in more production level code, and follow the best practice of design pattern
+
 - **Areas for Improvement:**
-  -
+
+  - Better understanding the proposed feature, and have a general image of how it should look like
+
 - **Feedback and Suggestions:**
-  -
+
+  - N/A
+
 
 ### [Team Member 2]
 - **Achievements and Contributions:**
