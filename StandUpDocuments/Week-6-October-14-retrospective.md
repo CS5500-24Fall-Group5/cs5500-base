@@ -6,7 +6,7 @@
 
 ## Date
 
-Week 5 October 07
+Week 6 October 14
 
 ## Participants
 
