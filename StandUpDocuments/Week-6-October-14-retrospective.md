@@ -75,15 +75,17 @@ Identify actionable steps that can be taken to improve future projects.
   - N/A
 
 
-### [Team Member 2]
+### `Norman Yuan`
 - **Achievements and Contributions:**
-  -
+  - Participated in building the wireframe for the Donor Lifecycle Management app  
+  - Collaborated in feature planning discussions  
 - **Challenges Faced:**
-  -
+  - Need better clarity on the scope of implementation  
+  - Balancing technical feasibility with user needs  
 - **Areas for Improvement:**
-  -
+  - Invest more time into researching advanced implementation techniques  
 - **Feedback and Suggestions:**
-  -
+  - Conduct deeper discussions on project scope with the entire team  
 
 ### [Team Member 3]
 - **Achievements and Contributions:**
