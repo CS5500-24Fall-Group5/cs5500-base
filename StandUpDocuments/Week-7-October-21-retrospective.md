@@ -1,59 +1,76 @@
 # Retrospective Document Template
 
 ## Team Name
-[Insert Team Name Here]
+
+- **`Group5`**
 
 ## Date
+
 Week 7 October 21
 
 ## Participants
-- [Team Member 1]
-- [Team Member 2]
-- [Team Member 3]
-- [Team Member 4]
-- [Team Member 5]
+
+- Anson He
+- Huijia Wang
+- Norman Yuan
+- Yuming Sun
 
 ---
 
 ## Overview
 Briefly describe the purpose of this retrospective and what you aim to achieve.
 
+The purpose of this retrospective is to reflect on the team’s performance during the first week of the project. We aim to identify our successes, any challenges we faced, and areas for future improvement. This reflection will guide us in ensuring the team stays aligned and continually improves as the project progresses.
+
 ---
 
 ## What Went Well
+
 List the things that went well during the project.
--
--
--
+
+- Presented the project proposal to the client BC Cancer successfully
+- Receive some feedback, indicating the chosen proposal is reasonable
+- Can further design and develop such proposal and build into MVP
 
 ---
 
 ## What Could Be Improved
+
 List the areas where there is room for improvement.
--
--
--
+
+- During the presentation, the speed of flow can be slower as the temple is slightly too fast
+- Less words on the presentation slides.
 
 ---
 
 ## Action Items
+
 Identify actionable steps that can be taken to improve future projects.
-1.
-2.
-3.
+
+1. Practice the presentation more ahead of the time.
 
 ---
 
 ## Individual Self-Assessments
-### [Team Member 1]
+
+### `Anson He`
+
 - **Achievements and Contributions:**
-  -
+
+  - Presented the proposal feature and why we chosen this feature part of the slides
+  - Also addressed the issues raised by BC Cancer, need to come up a solution to overcome.
+
 - **Challenges Faced:**
-  -
+
+  - Need to discuss the concern raised by BC Cancer with Juancho, which is the accuracy of auto-categorization.
+  
 - **Areas for Improvement:**
-  -
+
+  - Practice public speaking and control the speed of speaking.
+
 - **Feedback and Suggestions:**
-  -
+
+  - N/A
 
 ### [Team Member 2]
 - **Achievements and Contributions:**
