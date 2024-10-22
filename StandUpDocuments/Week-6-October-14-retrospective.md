@@ -41,7 +41,6 @@ List the areas where there is room for improvement.
 - More discussions of the tech stacks being chosen, consider trade offs
 - Generally more time should be investing from now on for delivering MVP
 
-
 ---
 
 ## Action Items
@@ -60,76 +59,80 @@ Identify actionable steps that can be taken to improve future projects.
 
   - Contributed to the project proposal presentation
   - contributed to the tech stacks chosen for the feature
-
 - **Challenges Faced:**
 
   - Need some practice for Next.js, only used for a smaller project before
   - Writing in more production level code, and follow the best practice of design pattern
-
 - **Areas for Improvement:**
 
   - Better understanding the proposed feature, and have a general image of how it should look like
-
 - **Feedback and Suggestions:**
 
   - N/A
 
-
 ### `Norman Yuan`
-- **Achievements and Contributions:**
-  - Participated in building the wireframe for the Donor Lifecycle Management app  
-  - Collaborated in feature planning discussions  
-- **Challenges Faced:**
-  - Need better clarity on the scope of implementation  
-  - Balancing technical feasibility with user needs  
-- **Areas for Improvement:**
-  - Invest more time into researching advanced implementation techniques  
-- **Feedback and Suggestions:**
-  - Conduct deeper discussions on project scope with the entire team  
 
-### [Team Member 3]
 - **Achievements and Contributions:**
-  -
+  - Participated in building the wireframe for the Donor Lifecycle Management app
+  - Collaborated in feature planning discussions
 - **Challenges Faced:**
-  -
+  - Need better clarity on the scope of implementation
+  - Balancing technical feasibility with user needs
 - **Areas for Improvement:**
-  -
+  - Invest more time into researching advanced implementation techniques
 - **Feedback and Suggestions:**
-  -
+  - Conduct deeper discussions on project scope with the entire team
+
+### `Huijia Wang`
+
+- **Achievements and Contributions:**
+  - Prepared and practiced project proposal presentation
+  - Began planning the feature's implementation, including discuss potential technical solutions.
+- **Challenges Faced:**
+  - N/A
+- **Areas for Improvement:**
+  - Improve clarity around the technical requirements of the feature to ensure smooth implementation.
+- **Feedback and Suggestions:**
+  - Discuss more with team members about  the final technical solutions.
 
 ### [Team Member 4]
+
 - **Achievements and Contributions:**
-  -
+  -------------------------------
 - **Challenges Faced:**
-  -
+  -----------------
 - **Areas for Improvement:**
-  -
+  ----------------------
 - **Feedback and Suggestions:**
-  -
+  -------------------------
 
 ### [Team Member 5]
+
 - **Achievements and Contributions:**
-  -
+  -------------------------------
 - **Challenges Faced:**
-  -
+  -----------------
 - **Areas for Improvement:**
-  -
+  ----------------------
 - **Feedback and Suggestions:**
-  -
+  -------------------------
 
 ---
 
 ## Overall Team Assessment
+
 Reflect on the team’s performance as a whole.
+
 - **Team Strengths:**
-  -
+  ---------------
 - **Areas for Improvement:**
-  -
+  ----------------------
 - **Suggestions for Future Projects:**
-  -
+  --------------------------------
 
 ---
 
 ## Additional Comments
+
 Add any additional comments or notes that may be relevant.
--
+----------------------------------------------------------
