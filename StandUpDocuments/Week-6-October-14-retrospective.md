@@ -68,7 +68,7 @@ Identify actionable steps that can be taken to improve future projects.
   - Better understanding the proposed feature, and have a general image of how it should look like
 - **Feedback and Suggestions:**
 
-  - N/A
+  - I don't think my speech on Monday was a good one. I rehearsed before the presentation, but when I first got the microphone, I was a little nervous. I could clearly hear my voice echoing. This made me uncomfortable, and if I have another speech at the end, I will do some adaptive training on this aspect. I would give 5/10 for the speech.
 
 ### `Norman Yuan`
 
@@ -94,17 +94,17 @@ Identify actionable steps that can be taken to improve future projects.
   - Improve clarity around the technical requirements of the feature to ensure smooth implementation.
 - **Feedback and Suggestions:**
   - Discuss more with team members about  the final technical solutions.
-
-### [Team Member 4]
+### `Huijia Wang`
 
 - **Achievements and Contributions:**
-  -------------------------------
+  - Prepared project proposal presentation
+  - Practiced with Juancho
 - **Challenges Faced:**
-  -----------------
+  - N/A
 - **Areas for Improvement:**
-  ----------------------
+  - N/A
 - **Feedback and Suggestions:**
-  -------------------------
+  - N/A
 
 ### [Team Member 5]
 
