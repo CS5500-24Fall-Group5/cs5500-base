@@ -95,16 +95,17 @@ Identify actionable steps that can be taken to improve future projects.
 - **Feedback and Suggestions:**
   - Discuss more with team members about  the final technical solutions.
 
-### [Team Member 4]
+### `Yuming Sun`
 
 - **Achievements and Contributions:**
-  -------------------------------
+  - Prepared the project prosal presentation
+  - Practiced with Juancho
 - **Challenges Faced:**
   -----------------
 - **Areas for Improvement:**
   ----------------------
 - **Feedback and Suggestions:**
-  -------------------------
+  - I need to be better at the next presentation. I got nervous because I heard my own echo this time. It is not a good presentation.
 
 ### [Team Member 5]
 
