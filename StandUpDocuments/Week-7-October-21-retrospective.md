@@ -72,13 +72,19 @@ Identify actionable steps that can be taken to improve future projects.
 
   - N/A
 
-### [Team Member 2]
+### `Norman Yuan`
+
 - **Achievements and Contributions:**
-  -
+  - Provided insights into refining the Donor Lifecycle Management feature.
+  - Coordinated with the team to address client feedback effectively.
+  
 - **Challenges Faced:**
-  -
+  - Balancing between feature design and managing technical constraints for MVP development.
+      
 - **Areas for Improvement:**
-  -
+  - Continue refining task breakdowns to ensure better progress tracking.
+  - Improve communication frequency with the team to ensure better collaboration.
+    
 - **Feedback and Suggestions:**
   -
 
