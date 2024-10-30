@@ -1,59 +1,76 @@
 # Retrospective Document Template
 
 ## Team Name
-[Insert Team Name Here]
+
+- **`Group5`**
 
 ## Date
+
 Week 8 October 28
 
 ## Participants
-- [Team Member 1]
-- [Team Member 2]
-- [Team Member 3]
-- [Team Member 4]
-- [Team Member 5]
+
+- Anson He
+- Huijia Wang
+- Norman Yuan
+- Yuming Sun
 
 ---
 
 ## Overview
+
 Briefly describe the purpose of this retrospective and what you aim to achieve.
+
+The purpose of this retrospective is to reflect on the team’s performance during the first week of the project. We aim to identify our successes, any challenges we faced, and areas for future improvement. This reflection will guide us in ensuring the team stays aligned and continually improves as the project progresses.
 
 ---
 
 ## What Went Well
+
 List the things that went well during the project.
--
--
--
+
+- Modified the faux data using Juancho's codebase for tailored data for our feature
+- Finished the REST API assignment, Go + Java
 
 ---
 
 ## What Could Be Improved
+
 List the areas where there is room for improvement.
--
--
--
+
+- N/A
 
 ---
 
 ## Action Items
+
 Identify actionable steps that can be taken to improve future projects.
-1.
-2.
-3.
+
+- N/A
 
 ---
 
 ## Individual Self-Assessments
-### [Team Member 1]
+
+### `Anson He`
+
 - **Achievements and Contributions:**
-  -
+
+  - Learn about Go and complete the API assignment using Go
+  - Modified the Juancho's faux data backend to generate better data for our feature
+
 - **Challenges Faced:**
-  -
+
+- N/A
+
 - **Areas for Improvement:**
-  -
+
+- N/A
+
 - **Feedback and Suggestions:**
-  -
+
+  - N/A
+
 
 ### [Team Member 2]
 - **Achievements and Contributions:**
