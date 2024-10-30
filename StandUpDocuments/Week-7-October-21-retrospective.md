@@ -102,16 +102,21 @@ Identify actionable steps that can be taken to improve future projects.
 
   - Streamlining communication to ensure the implementation aligns with the project timeline.
 
-### [Team Member 4]
+### `Yuming Sun`
 
 - **Achievements and Contributions:**
-  -------------------------------
+
+  - We give a presentation of the project proposal to BC Cancer.
+  - Discussed DEI failure with group members.
 - **Challenges Faced:**
-  -----------------
+
+  - Explore the way to improve the skill of speech.
 - **Areas for Improvement:**
-  ----------------------
+
+  - N/A
 - **Feedback and Suggestions:**
-  -------------------------
+
+  - N/A
 
 ### [Team Member 5]
 
