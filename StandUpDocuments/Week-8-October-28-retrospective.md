@@ -72,15 +72,16 @@ Identify actionable steps that can be taken to improve future projects.
   - N/A
 
 
-### [Team Member 2]
+### `Norman Yuan`
 - **Achievements and Contributions:**
-  -
+  - Contributed to refining the data model based on feature needs.
+  - Collaborated in the API assignment and tested functionality
 - **Challenges Faced:**
-  -
+   - Adapting data model adjustments to ensure consistency across APIs.
 - **Areas for Improvement:**
-  -
+  - Improve data validation steps to ensure compatibility between backend data and API needs.
 - **Feedback and Suggestions:**
-  -
+  - Consider pairing with teammates for future unfamiliar language tasks to accelerate learning and problem-solving.
 
 ### [Team Member 3]
 - **Achievements and Contributions:**
