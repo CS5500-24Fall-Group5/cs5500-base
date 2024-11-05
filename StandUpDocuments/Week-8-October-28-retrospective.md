@@ -58,74 +58,76 @@ Identify actionable steps that can be taken to improve future projects.
 
   - Learn about Go and complete the API assignment using Go
   - Modified the Juancho's faux data backend to generate better data for our feature
-
 - **Challenges Faced:**
-
 - N/A
-
 - **Areas for Improvement:**
-
 - N/A
-
 - **Feedback and Suggestions:**
 
   - N/A
 
-
 ### `Norman Yuan`
+
 - **Achievements and Contributions:**
   - Contributed to refining the data model based on feature needs.
   - Collaborated in the API assignment and tested functionality
 - **Challenges Faced:**
-   - Adapting data model adjustments to ensure consistency across APIs.
+  - Adapting data model adjustments to ensure consistency across APIs.
 - **Areas for Improvement:**
   - Improve data validation steps to ensure compatibility between backend data and API needs.
 - **Feedback and Suggestions:**
   - Consider pairing with teammates for future unfamiliar language tasks to accelerate learning and problem-solving.
 
-### [Team Member 3]
+### `Huijia Wang`
+
 - **Achievements and Contributions:**
-  -
+  - Completed the REST API assignment using Java with unit test.
+  - Adjusted the sample data from Juancho's codebase to customize it for our feature.
 - **Challenges Faced:**
-  -
+  - Addressed complexities within the REST API assignment in Java.
 - **Areas for Improvement:**
-  -
+  - Enhance proficiency in handling multi-language projects.
 - **Feedback and Suggestions:**
-  -
+  - N/A
 
 ### [Team Member 4]
+
 - **Achievements and Contributions:**
-  -
+  -------------------------------
 - **Challenges Faced:**
-  -
+  -----------------
 - **Areas for Improvement:**
-  -
+  ----------------------
 - **Feedback and Suggestions:**
-  -
+  -------------------------
 
 ### [Team Member 5]
+
 - **Achievements and Contributions:**
-  -
+  -------------------------------
 - **Challenges Faced:**
-  -
+  -----------------
 - **Areas for Improvement:**
-  -
+  ----------------------
 - **Feedback and Suggestions:**
-  -
+  -------------------------
 
 ---
 
 ## Overall Team Assessment
+
 Reflect on the team’s performance as a whole.
+
 - **Team Strengths:**
-  -
+  ---------------
 - **Areas for Improvement:**
-  -
+  ----------------------
 - **Suggestions for Future Projects:**
-  -
+  --------------------------------
 
 ---
 
 ## Additional Comments
+
 Add any additional comments or notes that may be relevant.
--
+----------------------------------------------------------
