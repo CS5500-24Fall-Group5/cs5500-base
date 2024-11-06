@@ -90,12 +90,12 @@ Identify actionable steps that can be taken to improve future projects.
 - **Feedback and Suggestions:**
   - N/A
 
-### [Team Member 4]
+### `Yuming Sun`
 
 - **Achievements and Contributions:**
-  -------------------------------
+  - learned about the API assignment.
 - **Challenges Faced:**
-  -----------------
+  - tried to understand what other members did in other coding language.
 - **Areas for Improvement:**
   ----------------------
 - **Feedback and Suggestions:**
