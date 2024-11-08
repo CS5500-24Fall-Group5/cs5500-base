@@ -68,15 +68,16 @@ Identify actionable steps that can be taken to improve future projects.
 - **Feedback and Suggestions:**
   - N/A
 
-### [Team Member 2]
+### `Norman Yuan`
 - **Achievements and Contributions:**
-  -
+  - Worked on backend feature integration and API setup for MVP.
+  - Conducted testing for core MVP features and identified initial bugs.
 - **Challenges Faced:**
-  -
+  - Needed additional time to familiarize with Next.js best practices for efficient development.
 - **Areas for Improvement:**
-  -
+  - Continue exploring Next.js to deepen understanding and optimize the frontend implementation.
 - **Feedback and Suggestions:**
-  -
+  - Consider holding more frequent syncs with the team to share progress on frontend development.
 
 ### [Team Member 3]
 - **Achievements and Contributions:**
