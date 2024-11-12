@@ -1,59 +1,71 @@
 # Retrospective Document Template
 
 ## Team Name
-[Insert Team Name Here]
+
+- **`Group5`**
 
 ## Date
+
 Week 10 November 11
 
 ## Participants
-- [Team Member 1]
-- [Team Member 2]
-- [Team Member 3]
-- [Team Member 4]
-- [Team Member 5]
+
+- Anson He
+- Huijia Wang
+- Norman Yuan
+- Yuming Sun
 
 ---
 
 ## Overview
+
 Briefly describe the purpose of this retrospective and what you aim to achieve.
+
+The purpose of this retrospective is to reflect on the team’s performance during the first week of the project. We aim to identify our successes, any challenges we faced, and areas for future improvement. This reflection will guide us in ensuring the team stays aligned and continually improves as the project progresses.
 
 ---
 
 ## What Went Well
+
 List the things that went well during the project.
--
--
--
+
+- Completed what we need to present as MVP
+- built demos as MVP, frontend -> backend
 
 ---
 
 ## What Could Be Improved
+
 List the areas where there is room for improvement.
--
--
--
+
+- Better time management and resource
 
 ---
 
 ## Action Items
+
 Identify actionable steps that can be taken to improve future projects.
-1.
-2.
-3.
+
+- N/A
 
 ---
 
 ## Individual Self-Assessments
-### [Team Member 1]
+
+### `Anson He`
+
 - **Achievements and Contributions:**
-  -
+
+  - Developed more features on the frontend and tested with the backend API calls
+
 - **Challenges Faced:**
-  -
+  - Hard to debug visual bugs
+
 - **Areas for Improvement:**
-  -
+  - N/A
+
 - **Feedback and Suggestions:**
-  -
+  - N/A
 
 ### [Team Member 2]
 - **Achievements and Contributions:**
