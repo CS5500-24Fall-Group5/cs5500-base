@@ -92,10 +92,10 @@ Identify actionable steps that can be taken to improve future projects.
 - **Feedback and Suggestions:**
   - N/A
 
-### [Team Member 4]
+### `Yuming Sun`
 
 - **Achievements and Contributions:**
-  -------------------------------
+  - Joined in group discussions and worked on frontend feature
 - **Challenges Faced:**
   -----------------
 - **Areas for Improvement:**
