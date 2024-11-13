@@ -57,18 +57,19 @@ Identify actionable steps that can be taken to improve future projects.
 - **Achievements and Contributions:**
 
   - Building the overall higher level of MVP architect
-  - Building the frontend using modern framework(Next.js) 
-
+  - Building the frontend using modern framework(Next.js)
 - **Challenges Faced:**
-  - N/A
 
+  - N/A
 - **Areas for Improvement:**
-  - N/A
 
+  - N/A
 - **Feedback and Suggestions:**
+
   - N/A
 
 ### `Norman Yuan`
+
 - **Achievements and Contributions:**
   - Worked on backend feature integration and API setup for MVP.
   - Conducted testing for core MVP features and identified initial bugs.
@@ -79,49 +80,56 @@ Identify actionable steps that can be taken to improve future projects.
 - **Feedback and Suggestions:**
   - Consider holding more frequent syncs with the team to share progress on frontend development.
 
-### [Team Member 3]
+### `Huijia Wang`
+
 - **Achievements and Contributions:**
-  -
+  * Participated in team discussions to define tasks and assign responsibilities.
+  * Began development on the MVP, focusing on backend and data processing functionalities.
 - **Challenges Faced:**
-  -
+  - N/A
 - **Areas for Improvement:**
-  -
+  - Enhance coordination with team members to streamline backend integration.
 - **Feedback and Suggestions:**
-  -
+  - N/A
 
 ### [Team Member 4]
+
 - **Achievements and Contributions:**
-  -
+  -------------------------------
 - **Challenges Faced:**
-  -
+  -----------------
 - **Areas for Improvement:**
-  -
+  ----------------------
 - **Feedback and Suggestions:**
-  -
+  -------------------------
 
 ### [Team Member 5]
+
 - **Achievements and Contributions:**
-  -
+  -------------------------------
 - **Challenges Faced:**
-  -
+  -----------------
 - **Areas for Improvement:**
-  -
+  ----------------------
 - **Feedback and Suggestions:**
-  -
+  -------------------------
 
 ---
 
 ## Overall Team Assessment
+
 Reflect on the team’s performance as a whole.
+
 - **Team Strengths:**
-  -
+  ---------------
 - **Areas for Improvement:**
-  -
+  ----------------------
 - **Suggestions for Future Projects:**
-  -
+  --------------------------------
 
 ---
 
 ## Additional Comments
+
 Add any additional comments or notes that may be relevant.
--
+----------------------------------------------------------
