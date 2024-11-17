@@ -67,15 +67,19 @@ Identify actionable steps that can be taken to improve future projects.
 - **Feedback and Suggestions:**
   - N/A
 
-### [Team Member 2]
+### `Norman Yuan`
 - **Achievements and Contributions:**
-  -
+  - Refined the backend APIs to handle edge cases.
+  - Tested and validated backend functionality with demo data.
+
 - **Challenges Faced:**
-  -
+  - Managing API updates to align with frontend changes as the MVP evolved.
+
 - **Areas for Improvement:**
-  -
+  - Improve coordination with frontend developers to reduce API update iterations.
+
 - **Feedback and Suggestions:**
-  -
+  - Schedule API freeze points to streamline frontend-backend integration.
 
 ### [Team Member 3]
 - **Achievements and Contributions:**
