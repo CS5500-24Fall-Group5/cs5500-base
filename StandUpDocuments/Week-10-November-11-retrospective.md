@@ -57,73 +57,82 @@ Identify actionable steps that can be taken to improve future projects.
 - **Achievements and Contributions:**
 
   - Developed more features on the frontend and tested with the backend API calls
-
 - **Challenges Faced:**
+
   - Hard to debug visual bugs
-
 - **Areas for Improvement:**
-  - N/A
 
+  - N/A
 - **Feedback and Suggestions:**
+
   - N/A
 
 ### `Norman Yuan`
+
 - **Achievements and Contributions:**
+
   - Refined the backend APIs to handle edge cases.
   - Tested and validated backend functionality with demo data.
-
 - **Challenges Faced:**
+
   - Managing API updates to align with frontend changes as the MVP evolved.
-
 - **Areas for Improvement:**
-  - Improve coordination with frontend developers to reduce API update iterations.
 
+  - Improve coordination with frontend developers to reduce API update iterations.
 - **Feedback and Suggestions:**
+
   - Schedule API freeze points to streamline frontend-backend integration.
 
-### [Team Member 3]
+### `Huijia Wang`
+
 - **Achievements and Contributions:**
-  -
+  * Developed backend functionality for retrieving and filtering donor information efficientlyd, implemented data procession and insertion
+  * Provided frontend support to integrate donor-related features into the interface smoothly.
 - **Challenges Faced:**
-  -
+  - Balancing development tasks with time needed for MVP presentation preparation.
 - **Areas for Improvement:**
-  -
+  - N/A
 - **Feedback and Suggestions:**
-  -
+  - N/A
 
 ### [Team Member 4]
+
 - **Achievements and Contributions:**
-  -
+  -------------------------------
 - **Challenges Faced:**
-  -
+  -----------------
 - **Areas for Improvement:**
-  -
+  ----------------------
 - **Feedback and Suggestions:**
-  -
+  -------------------------
 
 ### [Team Member 5]
+
 - **Achievements and Contributions:**
-  -
+  -------------------------------
 - **Challenges Faced:**
-  -
+  -----------------
 - **Areas for Improvement:**
-  -
+  ----------------------
 - **Feedback and Suggestions:**
-  -
+  -------------------------
 
 ---
 
 ## Overall Team Assessment
+
 Reflect on the team’s performance as a whole.
+
 - **Team Strengths:**
-  -
+  ---------------
 - **Areas for Improvement:**
-  -
+  ----------------------
 - **Suggestions for Future Projects:**
-  -
+  --------------------------------
 
 ---
 
 ## Additional Comments
+
 Add any additional comments or notes that may be relevant.
--
+----------------------------------------------------------
