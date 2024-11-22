@@ -43,3 +43,16 @@ In future presentations, I will ensure that the demo focuses more on how users i
 - Role in Presentation: I was responsible for providing an overview of the demo, outlining the next steps, and delivering the conclusion.
 - Reflections: The overview could have been more engaging, and the next steps clearer.
 - Future Focus : I’ll rehearse more to ensure my delivery is smooth and connects well with the rest of the presentation.
+
+
+## `Yuming Sun`
+
+### Demo Improvements
+
+- We lack some features compared to other groups, but we should focus more on the features we developed and spend more time explaining what makes us different from other groups.
+
+### Personal Involvement
+
+- Role in Presentation: I was responsible for providing an introduction of project, 
+- Reflections: I think the content is similar to last time, but this time I should explain it in more detail instead of reading the slige again.
+- Future Focus : I should have edited the slide a lot to remove more texts.
