@@ -11,10 +11,11 @@
 
 - I was not directly involved in presenting the MVP due to personal circumstances.
 - After watching the video, I believe we can improve by shortening the introduction and dedicating more time to showcasing the product's functionality.
-Focus on User Perspective:
+  Focus on User Perspective:
 
 The presentation was overly technical and missed an opportunity to highlight the product’s features from the user’s perspective.
 In future presentations, I will ensure that the demo focuses more on how users interact with and benefit from the product.
+
 ## `Norman Yuan`
 
 ### Demo Improvements
@@ -28,3 +29,17 @@ In future presentations, I will ensure that the demo focuses more on how users i
 - Role in Presentation: I was responsible for introducing the main features and guiding the demo.
 - Reflections: I noticed that we could have managed our time better to cover all the key points without rushing.
 - Future Improvements: I plan to rehearse more thoroughly and gather feedback beforehand to ensure a smooth delivery.
+
+
+## `Huijia Wang`
+
+### Demo Improvements
+
+- The current demo did not fully reflect the functionality and core value of the product.
+- We will further discuss and enhance it by demonstrating the key features more clearly and aligning them with the product’s intended purpose.
+
+### Personal Involvement
+
+- Role in Presentation: I was responsible for providing an overview of the demo, outlining the next steps, and delivering the conclusion.
+- Reflections: The overview could have been more engaging, and the next steps clearer.
+- Future Focus : I’ll rehearse more to ensure my delivery is smooth and connects well with the rest of the presentation.
